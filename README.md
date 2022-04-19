@@ -1,6 +1,10 @@
 # objectRecognition
 object recognition mobile app with react native and using amazon-AWS Rekognition Service
 
+Projede gerçekleştirilmesi istenenleri [dökümantasyon dosyasında](https://github.com/J4CKHunter/objectRecognition/blob/main/Yaz%C4%B1l%C4%B1m%20Lab.%20I-%203.%20Proje.pdf) bulabilirsiniz.
+
+Projede gerçekleştirilen isterler ile ilgili detaylı açıklamalar [proje raporunun](https://github.com/J4CKHunter/objectRecognition/blob/main/rapor_180202050.pdf) içerisindedir.
+
 projeyi çalıştırmak için :
 1. rar halindeki proje dosyasını indirin.
 2. indirdiğniz rarı klasöre çıkarın
