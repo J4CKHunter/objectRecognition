@@ -1,5 +1,5 @@
 # objectRecognition
-object recognition app
+object recognition mobile app with react native and using amazon-AWS Rekognition Service
 
 projeyi çalıştırmak için :
 1. rar halindeki proje dosyasını indirin.
@@ -15,9 +15,9 @@ yeni bir powershell command line açın.
 
 uygulama nasıl kullanılır : 
 
-uygulama başlatıldığında ekranda 3 adet buton gözükür.
-bu butonlardan üstteki ikisi fotoğraf seçmeye veya kameradan fotoğraf çekmeye yarar.
-sonuncu buton ise bu fotoğrafı analiz etmeye yarayan butondur.
-fotoğraf yüklemeden analiz işlemi yapamazsınız.
-fotoğraf yükledikten sonra ekranda gözükecektir.analiz yaptıktan sonra analiz sonucu 
-bulunan nesne sayısı, nesnelerin ne olduğu ve resim üzerinde bounding boxlarını çizilmiş halde göreceksiniz.
+* uygulama başlatıldığında ekranda 3 adet buton gözükür.
+* bu butonlardan üstteki ikisi fotoğraf seçmeye veya kameradan fotoğraf çekmeye yarar.
+* sonuncu buton ise bu fotoğrafı analiz etmeye yarayan butondur.
+* fotoğraf yüklemeden analiz işlemi yapamazsınız.
+* fotoğraf yükledikten sonra ekranda gözükecektir.analiz yaptıktan sonra analiz sonucu 
+* bulunan nesne sayısı, nesnelerin ne olduğu ve resim üzerinde bounding boxlarını çizilmiş halde göreceksiniz.
