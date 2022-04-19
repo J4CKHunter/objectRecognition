@@ -24,4 +24,10 @@ uygulama nasıl kullanılır :
 * sonuncu buton ise bu fotoğrafı analiz etmeye yarayan butondur.
 * fotoğraf yüklemeden analiz işlemi yapamazsınız.
 * fotoğraf yükledikten sonra ekranda gözükecektir.analiz yaptıktan sonra analiz sonucu 
-* bulunan nesne sayısı, nesnelerin ne olduğu ve resim üzerinde bounding boxlarını çizilmiş halde göreceksiniz.
+* bulunan nesne sayısı, nesnelerin ne olduğu ve resim üzerinde bounding boxlarını çizilmiş halde göreceksiniz.\
+
+### *example screenshots from app
+[<img src="https://github.com/J4CKHunter/objectRecognition/blob/main/7.jpeg" width="320"/>](7.jpeg)
+[<img src="https://raw.githubusercontent.com/J4CKHunter/objectRecognition/main/1.jpeg" width="320"/>](1.jpeg)
+[<img src="https://github.com/J4CKHunter/objectRecognition/blob/main/4.jpeg" width="320"/>](4.jpeg)
+
